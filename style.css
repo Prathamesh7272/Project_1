@@ -1,0 +1,205 @@
+.contact-header {
+    background-color: #fea44d !important;
+    color: black;
+    padding: 5px 0;
+}
+
+.contact-header i {
+    padding: 0 5px;
+}
+
+.contact-header a {
+    color: black;
+}
+
+.nav-item {
+    padding-left: 50px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.banner .carousel-item img {
+    height: 600px !important;
+    object-fit: cover;
+}
+
+.banner h3 {
+    font-weight: bold;
+    display: 3;
+}
+
+.services i {
+    color: black;
+    background-color: #fea44d;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.services h5 {
+    font-weight: bold;
+}
+
+.Tour-packages {
+    background-color: #e8e8e8;
+}
+
+.my-btn {
+    background-color: #fea44d !important;
+}
+
+.Why-Choose-Us {
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('../images/img1.jpg') center center fixed no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+}
+
+.box {
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 50px;
+    font-size: 10px;
+}
+
+.About-us img {
+    width: 80% !important;
+    height: 300px;
+}
+
+.About-us {
+    font-size: 20px;
+}
+
+.book-tour {
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('../images/bt1.jpg') center center fixed no-repeat;
+    background-size: cover;
+}
+
+.copyright {
+    color: white;
+    background-color: black;
+    padding: 5px 0;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.footer {
+    color: rgb(0, 0, 0);
+    background-color: #d5d5d5;
+    font-weight: 500;
+}
+
+footer ul,
+li,
+span {
+    list-style-type: none;
+    font-size: 18px;
+}
+
+footer h4 {
+    padding-left: 30px;
+}
+
+.abt-info {
+    font-size: 20px;
+}
+
+.c-box {
+    border: 1px solid white;
+    padding: 25px;
+    border-radius: 6px;
+    box-shadow: 0px 1px 4px 0px #bdbcbcb8;
+}
+
+.cbox {
+    border: 1px solid white;
+    font-size: 17px;
+    font-weight: 500;
+    padding: 25px;
+    border-radius: 6px;
+    box-shadow: 0px 1px 4px 0px #bdbcbcb8;
+}
+
+.contact-info .container {
+    width: 1050px;
+}
+
+.about-us {
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.5)), url('../images/about.jpg') no-repeat fixed center;
+    background-size: cover;
+    color: rgb(2, 2, 2);
+    padding: 30px 0;
+}
+
+.abt {
+    font-weight: 500;
+}
+
+.contact-us {
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.5)), url('../images/C4.jpg') center center fixed no-repeat;
+    background-size: cover;
+    padding: 30px 0;
+}
+.hcolor{
+    color: #fea44d;
+}
+
+.map {
+    background-color: #212529;
+    color: white;
+}
+
+.gallery {
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.5)), url('../images/bt1.jpg') center center fixed no-repeat;
+    background-size: cover;
+    padding: 30px 0;
+}
+
+
+
+.happy-cust img {
+    width: 100%;
+}
+
+.services .box {
+    height: 200px;
+}
+
+.row .col-xs-6 {
+    width: 50% !important;
+}
+
+.indian-box h3 {
+    font-size: 15px;
+}
+
+.kerala {
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.5)), url('../images/banner4.jpg') center center fixed no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+}
+
+.ladakh {
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.5)), url('../images/banner6.jpg') center center fixed no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+}
+
+.himachal {
+    background: url('../images/banner3.jpg') center center fixed no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+}
+
+.indian-box img {
+    width: 100%;
+}
+
+.indian-box img {
+    height: 250px;
+}
